@@ -11,7 +11,7 @@ class Bombilla:
         print("La bombilla está ENCENDIDA.")
 
     def apagar(self):
-        """
+        """ Bienvenidos
         Abstracción: Simplemente apaga la luz.
         Oculta cómo se interrumpe el circuito.
         """
